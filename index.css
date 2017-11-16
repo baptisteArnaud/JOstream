@@ -1,0 +1,23 @@
+.video {
+		margin-left: -8px;
+		margin-top: -8px;
+		position:fixed;
+
+}
+iframe{
+			width:1303px;
+			height:733px;
+}
+
+body{
+		background-color: #292828;
+}
+
+.box {
+		margin-top: -8px;
+		height:733px;
+		width:233px;
+		margin-left: 1295px;
+		background-color: pink;
+		position: fixed;
+}
